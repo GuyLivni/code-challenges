@@ -1,5 +1,5 @@
 // Instructions
-// use the URL https://jsonmock.hackerrank.com/api/movies/search/?Title=[substr] to fetch data about movies of any Harry Potter movies
+// use the URL https://jsonmock.hackerrank.com/api/movies/search/?Title=[substr] to fetch data about movies
 // Hint replace the REPLACE_SUBSTR text in the url
 // print to the console and object containing the number of movies returned, and the titles in an array
 // to get started, run 'npm install' to install the node-fetch library (feel free to use any other HTTP request library)
@@ -25,5 +25,3 @@
 const fetch = require("node-fetch");
 const url =
   "https://jsonmock.hackerrank.com/api/movies/search/?Title=REPLACE_SUBSTR";
-
-
