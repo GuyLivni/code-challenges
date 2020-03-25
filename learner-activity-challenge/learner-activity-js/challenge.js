@@ -1,4 +1,3 @@
-function evaluateLearnerActivity(activityArray) {
   /*  ***** INSTRUCTIONS ***** 
 We want to get some learning activity data of our learners! 
 You will receive an array as an input, containing 1s or 0s, based on whether or not a learner completed a 
@@ -29,6 +28,7 @@ rolling 7 day period (thus only take into account the last 7 days’ data).
   [13, 5, 'Super user']
 
   */
+ function evaluateLearnerActivity(activityArray) {
 
   let activitySummary = [];
 
