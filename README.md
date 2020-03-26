@@ -1,2 +1,2 @@
-# neos-code-challenges
-Code 
+# code-challenges
+
