@@ -13,9 +13,9 @@
 #     3. level based on the last 7 days
   
 #       User status rules
-#     <= 2 'Slow starter' [0,1,2]
-#     >2 && <= 4 'Getting there' [3, 4]
-#     >4 'Super user' [5,6 7]
+#     <= 2 'Slow starter' 
+#     >2 && <= 4 'Getting there' 
+#     >4 'Super user' 
   
 #     Instructions
 #     if you want to test you code, run the challenge_test.rb file and look at the console output to see if your tests passed
