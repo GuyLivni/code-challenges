@@ -12,9 +12,9 @@ rolling 7 day period (thus only take into account the last 7 days’ data).
   3. level based on the last 7 days
 
     User status rules
-  <= 2 'Slow starter' [0,1,2]
-  >2 && <= 4 'Getting there' [3, 4]
-  >4 'Super user' [5,6 7]
+  <= 2 'Slow starter' 
+  >2 && <= 4 'Getting there' 
+  >4 'Super user' 
 
   Instructions
   run npm install to ensure that you install Jest, the test framework
